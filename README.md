@@ -4,20 +4,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/faustbrian/license/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/license" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/license">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/license" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/license">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/license" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/license">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/license" alt="License" />
-    </a>
-</p>
 
 ## About License
 
